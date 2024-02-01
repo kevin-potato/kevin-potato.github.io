@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhongkai (Kevin) Yang"
+title                    : "Zhongkai Yang"
 title_separator          : "-"
 name                     : &name "Zhongkai Yang"
 description              : &description "A BIG DREAMER"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhongkai-yang-414288208/"
+  linkedin         : "zhongkai-yang-414288208/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

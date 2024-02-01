@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhongkai Yang - 杨钟凯"
+title: "Zhongkai (Kevin) Yang - 杨钟凯"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
