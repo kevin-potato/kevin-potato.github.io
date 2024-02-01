@@ -11,7 +11,7 @@ redirect_from:
 
 ## Biography
 
-Zhongkai Yang is in his final year of the Bachelor of Science with Honours programme, majoring in Computer Science with Artificial Intelligence, at the University of Nottingham Ningbo. He is an applicant for the Fall 2024 master's programs and has already received an offer to pursue a Master of Science in Business Analytics from Imperial College London.
+Zhongkai Yang is in his final year of the Bachelor of Science with Honours programme, majoring in Computer Science with Artificial Intelligence, at the University of Nottingham Ningbo. He is an applicant for the Fall 2024 master's programmes and has already received an offer to pursue a Master of Science in Business Analytics from Imperial College London.
 
 He is a devoted Formula One fan with a strong interest in automobiles, having driven over 40 different models. His love for travel has led him to explore more than 10 countries. His interests are broad, including photography, policy, markets, social media, net zero, ESG, and etc.
 
