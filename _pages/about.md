@@ -19,6 +19,10 @@ But at the moment, he's not sure how to kick-start his career, and maybe you rea
 
 
 
+Contact me at (86) 18069595197, or kevin.zhongkai@outlook.com
+
+
+
 
 ## Education
 
