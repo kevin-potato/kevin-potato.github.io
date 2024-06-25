@@ -15,11 +15,11 @@ Zhongkai Yang is an optimistic and outgoing boy. He is going to study MSc Busine
 
 He is a devoted Formula One fan with a strong interest in automobiles, having driven over 40 different vehicle models. His love for travel has led him to explore more than 10 countries, and completed Camino Primitivo, Camino de Santiago. His interests are broad, including photography, technology policy, markets, social media, net zero, ESG, and etc.
 
+He is also interested in quantitative trading, with a preference for combining quantitative metrics with fundamentals for stock picking and trading, adhering to long-termism. If you are interested in trading A-shares, cryptocurrencies, you can talk to him!
+
 But at the moment, he's not sure how to kick-start his career, and maybe you reading this can help him. Let's wish him well!
 
-
-
-Contact me at (86) 18069595197, or kevin.zhongkai@outlook.com
+Contact him at (86) 18069595197, or kevin.zhongkai@outlook.com
 
 
 
